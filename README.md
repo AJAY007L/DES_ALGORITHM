@@ -1,5 +1,5 @@
 An Implementation of DES encryption/decryption algorithm
-## [DEMO](https://desalgo.netlify.app/)
+## [DEMO](https://desdemonstration.netlify.app/)
 
 Snapshots:
 
